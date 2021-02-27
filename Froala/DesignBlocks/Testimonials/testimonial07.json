@@ -1,0 +1,128 @@
+{
+    "TestimonialImage1" : [
+        
+        {
+            "TestimonialImage" : "Assets/imgs/customers/adobe.svg"
+        },
+        {
+            "TestimonialImage" : "Assets/imgs/customers/amazon.svg"
+        },
+        {
+            "TestimonialImage" : "Assets/imgs/customers/ebay.svg"
+        },
+        {
+            "TestimonialImage" : "Assets/imgs/customers/samsung.svg"
+        },
+        {
+            "TestimonialImage" : "Assets/imgs/customers/orange.svg"
+        },
+        {
+            "TestimonialImage" : "Assets/imgs/customers/salesforce.svg"
+        }
+    ],    
+    "TestimonialImage2" : [
+        
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        }
+    ],    
+    "TestimonialImage3" : [
+        
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        }
+    ],    
+    "TestimonialImage4" : [
+        
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        }
+    ],    
+    "TestimonialImage5" : [
+        
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        }
+    ],    
+    "TestimonialImage6" : [
+        
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        }
+    ]
+}

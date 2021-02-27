@@ -1,0 +1,41 @@
+{
+    "ContentText1" : "Design Blocks",    
+    "ContentText2" : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts",    
+    "ContentImage1" : [
+        
+        {
+            "ContentImage" : "Assets/imgs/customers/samsung.svg"
+        },
+        {
+            "ContentImage" : "Assets/imgs/customers/adobe.svg"
+        },
+        {
+            "ContentImage" : "Assets/imgs/customers/amazon.svg"
+        }
+    ],    
+    "ContentImage2" : [
+        
+        {
+            "ContentImage" : "{{ContentImage}}"
+        },
+        {
+            "ContentImage" : "{{ContentImage}}"
+        },
+        {
+            "ContentImage" : "{{ContentImage}}"
+        }
+    ],    
+    "ContentImage3" : [
+        
+        {
+            "ContentImage" : "{{ContentImage}}"
+        },
+        {
+            "ContentImage" : "{{ContentImage}}"
+        },
+        {
+            "ContentImage" : "{{ContentImage}}"
+        }
+    ],    
+    "ContentImage4" : "Assets/imgs/draws/customer-survey.svg"
+}

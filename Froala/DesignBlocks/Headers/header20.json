@@ -1,0 +1,11 @@
+{
+    "HeaderText1" : "Home",    
+    "HeaderText2" : "(current)",    
+    "HeaderText3" : "Features",    
+    "HeaderText4" : "Pricing",    
+    "HeaderText5" : "Team",    
+    "HeaderText6" : "Contact",    
+    "HeaderText7" : "Log In",    
+    "HeaderText8" : "Register",    
+    "HeaderImage1" : "Assets/imgs/logo.png"
+}

@@ -1,0 +1,87 @@
+{
+    "FeatureText1" : "Feature One",    
+    "FeatureText2" : "Far far away, behind the word mountains is hope.",    
+    "FeatureText3" : "Feature Two",    
+    "FeatureText4" : "On her way she met a copy of the Little Blind Text.",    
+    "FeatureText5" : "Feature Three",    
+    "FeatureText6" : "Even the all-powerful has no control about the blind texts",    
+    "FeatureText7" : "Feature Four",    
+    "FeatureText8" : "Duden flows by their place, behind the word mountains.",    
+    "FeatureText9" : "Feature Five",    
+    "FeatureText10" : "Separated they live in Bookmark right at the coast",    
+    "FeatureText11" : "Feature Six",    
+    "FeatureText12" : "A small river named Duden flows by their place and supplies it",    
+    "FeatureImage1" : [
+        
+        {
+            "FeatureImage" : "Assets/imgs/icons/gift.svg"
+        },
+        {
+            "FeatureImage" : "Assets/imgs/icons/layers.svg"
+        },
+        {
+            "FeatureImage" : "Assets/imgs/icons/map.svg"
+        }
+    ],    
+    "FeatureImage2" : [
+        
+        {
+            "FeatureImage" : "{{FeatureImage}}"
+        },
+        {
+            "FeatureImage" : "{{FeatureImage}}"
+        },
+        {
+            "FeatureImage" : "{{FeatureImage}}"
+        }
+    ],    
+    "FeatureImage3" : [
+        
+        {
+            "FeatureImage" : "{{FeatureImage}}"
+        },
+        {
+            "FeatureImage" : "{{FeatureImage}}"
+        },
+        {
+            "FeatureImage" : "{{FeatureImage}}"
+        }
+    ],    
+    "FeatureImage4" : [
+        
+        {
+            "FeatureImage" : "Assets/imgs/icons/map-pin.svg"
+        },
+        {
+            "FeatureImage" : "Assets/imgs/icons/package.svg"
+        },
+        {
+            "FeatureImage" : "Assets/imgs/icons/monitor.svg"
+        }
+    ],    
+    "FeatureImage5" : [
+        
+        {
+            "FeatureImage" : "{{FeatureImage}}"
+        },
+        {
+            "FeatureImage" : "{{FeatureImage}}"
+        },
+        {
+            "FeatureImage" : "{{FeatureImage}}"
+        }
+    ],    
+    "FeatureImage6" : [
+        
+        {
+            "FeatureImage" : "{{FeatureImage}}"
+        },
+        {
+            "FeatureImage" : "{{FeatureImage}}"
+        },
+        {
+            "FeatureImage" : "{{FeatureImage}}"
+        }
+    ],    
+    "FeatureImage7" : "Assets/imgs/draws/simple-iphone.svg"
+}

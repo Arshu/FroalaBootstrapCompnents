@@ -1,0 +1,8 @@
+{
+    "ContactText1" : "First Name",    
+    "ContactText2" : "Last Name",    
+    "ContactText3" : "Your Email",    
+    "ContactText4" : "Subject (optional but helpful)",    
+    "ContactText5" : "How can we help?",    
+    "ContactText6" : "Submit"
+}

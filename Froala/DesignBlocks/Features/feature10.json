@@ -1,0 +1,15 @@
+{
+    "FeatureText1" : "Features",    
+    "FeatureText2" : "Feature One",    
+    "FeatureText3" : "Far far away, behind the word mountains, far from the countries",    
+    "FeatureText4" : "Feature Two",    
+    "FeatureText5" : "Separated they live in Bookmarksgrove right at the coast",    
+    "FeatureText6" : "Feature Three",    
+    "FeatureText7" : "A small river named Duden flows by their place and supplies it",    
+    "FeatureText8" : "Feature Four",    
+    "FeatureText9" : "Duden flows by their place far far away, behind the word mountains.",    
+    "FeatureImage1" : "Assets/imgs/icons/monitor.svg",    
+    "FeatureImage2" : "Assets/imgs/icons/map-pin.svg",    
+    "FeatureImage3" : "Assets/imgs/icons/life-buoy.svg",    
+    "FeatureImage4" : "Assets/imgs/icons/package.svg"
+}

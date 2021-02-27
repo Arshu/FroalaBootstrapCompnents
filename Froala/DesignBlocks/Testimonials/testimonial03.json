@@ -1,0 +1,219 @@
+{
+    "TestimonialText1" : "You are in good company",    
+    "TestimonialImage1" : [
+        
+        {
+            "TestimonialImage" : "Assets/imgs/customers/adobe.svg"
+        },
+        {
+            "TestimonialImage" : "Assets/imgs/customers/amazon.svg"
+        },
+        {
+            "TestimonialImage" : "Assets/imgs/customers/ebay.svg"
+        },
+        {
+            "TestimonialImage" : "Assets/imgs/customers/samsung.svg"
+        },
+        {
+            "TestimonialImage" : "Assets/imgs/customers/orange.svg"
+        },
+        {
+            "TestimonialImage" : "Assets/imgs/customers/salesforce.svg"
+        }
+    ],    
+    "TestimonialImage2" : [
+        
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        }
+    ],    
+    "TestimonialImage3" : [
+        
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        }
+    ],    
+    "TestimonialImage4" : [
+        
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        }
+    ],    
+    "TestimonialImage5" : [
+        
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        }
+    ],    
+    "TestimonialImage6" : [
+        
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        }
+    ],    
+    "TestimonialImage7" : [
+        
+        {
+            "TestimonialImage" : "Assets/imgs/customers/cisco.svg"
+        },
+        {
+            "TestimonialImage" : "Assets/imgs/customers/apple.svg"
+        },
+        {
+            "TestimonialImage" : "Assets/imgs/customers/ibm.svg"
+        },
+        {
+            "TestimonialImage" : "Assets/imgs/customers/intel.svg"
+        },
+        {
+            "TestimonialImage" : "Assets/imgs/customers/panasonic.svg"
+        }
+    ],    
+    "TestimonialImage8" : [
+        
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        }
+    ],    
+    "TestimonialImage9" : [
+        
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        }
+    ],    
+    "TestimonialImage10" : [
+        
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        }
+    ],    
+    "TestimonialImage11" : [
+        
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        },
+        {
+            "TestimonialImage" : "{{TestimonialImage}}"
+        }
+    ]
+}
