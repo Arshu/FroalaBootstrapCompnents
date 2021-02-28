@@ -1,6 +1,6 @@
 {
     "StylesheetName" : "froala_blocks.css",    
-    "RelativePath" : "Templates\\Bootstrap\\Fraola\\DesignBlocks\\froala_blocks.css",    
+    "RelativePath" : "Templates\\FroalaBootstrapComponents\\Froala\\DesignBlocks\\froala_blocks.css",    
     "ParseTimeInSec" : 0.01,    
     "ParseStyleTimeInSec" : 0.01,    
     "ParseMediaTimeInSec" : 0,    
